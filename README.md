@@ -1,9 +1,5 @@
 # README.md Requirements
 
-Create a complete and professional README.md file for the project.
-
-The README must include the following sections:
-
 # StudySphere AI
 
 ## Overview
@@ -208,3 +204,4 @@ The platform promotes responsible and ethical use of AI in education.
 ## Author
 
 Developed as an AI-powered educational platform focused on improving Grade 12 learner success through accessible and intelligent learning tools.
+

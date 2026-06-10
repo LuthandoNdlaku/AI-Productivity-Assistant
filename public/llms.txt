@@ -1,0 +1,13 @@
+# StudySphere AI
+
+> AI-powered learning workspace for Grade 12 learners.
+
+## Pages
+- [Dashboard](/): Study success hub with stats and quick access
+- [Study Materials](/materials): Generate notes, flashcards, and practice questions
+- [Notes Summarizer](/summarizer): Turn class notes into revision packs
+- [Study Planner](/planner): AI-built schedules and task tracker
+- [Research Assistant](/research): Topic explanations and exam-focused summaries
+- [AI Tutor Chat](/tutor): Conversational academic mentor
+- [Progress Tracker](/progress): Study streaks and weekly stats
+- [Settings](/settings): Privacy and local data controls

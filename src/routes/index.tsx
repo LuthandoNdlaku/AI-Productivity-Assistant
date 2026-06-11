@@ -125,9 +125,12 @@ function Dashboard() {
       >
         <div className="relative z-10 max-w-2xl">
           <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-white/15 px-3 py-1 text-xs font-medium backdrop-blur">
-            <Sparkles className="size-3.5" /> Built for Grade 12 success
+            <Sparkles className="size-3.5" /> Built by Luthando Ndlaku · For Grade 12 success
           </div>
-          <h1 className="text-3xl font-semibold tracking-tight sm:text-4xl">
+          <p className="text-sm font-medium uppercase tracking-[0.2em] text-white/80">
+            Welcome, Luthando Ndlaku
+          </p>
+          <h1 className="mt-2 text-3xl font-semibold tracking-tight sm:text-4xl">
             Your AI Study Success Hub
           </h1>
           <p className="mt-3 max-w-xl text-base text-white/85">
